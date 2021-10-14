@@ -1,0 +1,13 @@
+{
+    "special_tags": [
+        "<E>",
+        "</E>"
+    ],
+    "pooling": {
+        "pooling_mode_cls_token": false,
+        "pooling_mode_max_tokens": false,
+        "pooling_mode_mean_tokens": false,
+        "pooling_mode_mean_sqrt_len_tokens": false,
+        "pooling_mode_mean_event_tokens": true
+    }
+}
