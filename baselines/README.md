@@ -78,3 +78,7 @@ do
     echo "----------------------"
 done
 ```
+
+## License
+
+Code for the baselines is available under MIT License.
